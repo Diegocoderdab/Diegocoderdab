@@ -17,4 +17,10 @@
     <img align="center" alt="javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="gitbash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
      <img align="center" alt="vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  </div><br/>
+  
+   ##  Contato
+  <div>
+    <a href="https://www.linkedin.com/in/diego-araujo-38a905210/"> <img height="30" width="40"src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> </a>
+ <a href="mailto:diego.ab.eletricista@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </ a>
   </div>
