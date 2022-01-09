@@ -1,8 +1,6 @@
 ### Olá! sou Diego Araujo  estudante de programação 👨🏾‍💻
 
 - 🔭 Focado em Front-End Development
-- 💻 Estudando Web Hosting
-- 🚀 Sonhando com IOT
 
 <div align = "center">
   <a href="https://github.com/coderdiego">
